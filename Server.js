@@ -5,7 +5,7 @@ import connectdb from './config/db.js'
  import authRoute from './routes/authRoute.js'
  import catagoryRoutes from './routes/catagoryRoutes.js'
  import productRoutes from './routes/productRoutes.js'
-import path from path
+import path from "path"
 
 
 import cors from 'cors'
